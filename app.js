@@ -1,0 +1,3 @@
+.accInfo{
+    text-align: center;
+}
